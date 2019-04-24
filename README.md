@@ -9,5 +9,5 @@
 * We are using develop branch Next to the main branches master and staging, our development model uses a variety of supporting branches to aid parallel development between team members, ease tracking of features, prepare for production releases and to assist in quickly fixing live production problems.
 * One should only be branching off from develop branch and can merge it again towards the same branch or can create a pull request towards `staging` when the code is ready to be reviewed.
 * Each of these branches have a specific purpose and are bound to strict rules as to which branches may be their originating branch and which branches must be their merge targets.
-* We allow the Pull Requests from dev to staging having each developer work in their own fork of the repo created towards dev
+* We allow the Pull Requests from dev to staging having each developer work in their own fork of the repo created towards develop
 * This allows developers to create whatever branches they want without polluting the main fork of the repository.
