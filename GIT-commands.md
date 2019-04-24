@@ -1,6 +1,6 @@
 ![](images/cheatsheet.png)
 
-_A list of my commonly used Git commands_
+_A list of commonly used Git commands_
 ### Getting & Creating Projects
 
 | Command | Description |
